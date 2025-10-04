@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/hoseinrashidi-urmavi/Calculatoriostheme-/blob/main/Readme-photo.png" width="150" alt="Laravel Logo"></a></p>
+<p align="center"><a  target="_blank"><img src="https://github.com/hoseinrashidi-urmavi/Calculatoriostheme-/blob/main/Readme-photo.png" width="150" ></a></p>
 
 
 
